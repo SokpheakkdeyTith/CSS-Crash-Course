@@ -1,0 +1,33 @@
+h1 {
+    background-color: white;
+    color: purple; 
+}
+div {
+    width: 100%;
+    max-width: 200px;
+    background-color: white;
+    border: 3px solid black;
+    font-weight: 900;
+    font-family: "Roboto", sans-serif;
+}
+.red {
+    color: red; 
+}
+.blue{
+    color: blue;
+}
+
+#title {
+    font-weight: bold;
+    color: green;
+}
+
+#sub-title {
+    font-weight: 700;
+    color: brown
+}
+
+section {
+    height: 80vh;
+    border: 1px solid black;
+}

@@ -31,3 +31,35 @@ section {
     height: 80vh;
     border: 1px solid black;
 }
+
+.box
+{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    padding: 15px;
+    margin: 15px; 
+    border: 10px solid red;
+    box-sizing: border-box;
+}
+
+div{
+    border: 3px solid black;
+    height: 200px
+}
+
+.grey {
+    position: relative;
+    background-color: grey;
+    top: 20px;
+    bottom: 20px;
+}
+
+.indigo {
+    background-color: indigo;
+    position: absolute; 
+    width: 100px; 
+    top: 00;
+    left: 100; 
+    right: 0;
+}
